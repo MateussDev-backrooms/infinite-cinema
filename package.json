@@ -1,0 +1,17 @@
+{
+  "name": "infinite-cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MateussDev and co.",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
